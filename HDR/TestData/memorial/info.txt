@@ -1,0 +1,16 @@
+memorial00.png 1
+memorial01.png 0.5
+memorial02.png 0.25
+memorial03.png 0.125
+memorial04.png 0.0625
+memorial05.png 0.03125
+memorial06.png 0.015625
+memorial07.png 0.0078125
+memorial08.png 0.00390625
+memorial09.png 0.001953125
+memorial10.png 0.0009765625
+memorial11.png 0.00048828125
+memorial12.png 0.000244140625
+memorial13.png 0.0001220703125
+memorial14.png 0.00006103515625
+memorial15.png 0.000030517578125
